@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+}
+h1{
+    color: rgb(226, 107, 153);
+}
+.t1{
+    color: rgb(44, 178, 240);
+}
+
+.texto{
+    color: rgb(19, 18, 18);
+}
+div{
+    height: 400px;
+    background: rgb(221, 224, 213);
+}
+.black{
+    background-color: rgba(48, 45, 47, 0.74);
+}
+
+.v{
+    background-color: rgba(192, 203, 231, 0.832);
+}
